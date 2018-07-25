@@ -1,0 +1,21 @@
+[INFO] 2018-07-23 15:26:42,520 com.scp.test.TestMain main - Hello this is an info message
+[FATAL] 2018-07-23 15:26:42,985 com.scp.test.TestMain main - this is fatal
+[TRACE] 2018-07-23 15:26:43,011 com.scp.test.TestMain main - this is trace
+[ERROR] 2018-07-23 15:26:43,034 com.scp.test.TestMain main - this is error
+[INFO] 2018-07-23 15:26:43,056 com.scp.test.TestMain main - this is info
+[FATAL] 2018-07-23 15:26:43,078 com.scp.test.TestMain main - this is fatal
+[TRACE] 2018-07-23 15:26:43,100 com.scp.test.TestMain main - this is trace
+[ERROR] 2018-07-23 15:26:43,122 com.scp.test.TestMain main - this is error
+[INFO] 2018-07-23 15:26:43,151 com.scp.test.TestMain main - this is info
+[FATAL] 2018-07-23 15:26:43,173 com.scp.test.TestMain main - this is fatal
+[TRACE] 2018-07-23 15:26:43,200 com.scp.test.TestMain main - this is trace
+[ERROR] 2018-07-23 15:26:43,228 com.scp.test.TestMain main - this is error
+[INFO] 2018-07-23 15:26:43,255 com.scp.test.TestMain main - this is info
+[FATAL] 2018-07-23 15:26:43,278 com.scp.test.TestMain main - this is fatal
+[TRACE] 2018-07-23 15:26:43,305 com.scp.test.TestMain main - this is trace
+[ERROR] 2018-07-23 15:26:43,333 com.scp.test.TestMain main - this is error
+[INFO] 2018-07-23 15:26:43,361 com.scp.test.TestMain main - this is info
+[FATAL] 2018-07-23 15:26:43,383 com.scp.test.TestMain main - this is fatal
+[TRACE] 2018-07-23 15:26:43,409 com.scp.test.TestMain main - this is trace
+[ERROR] 2018-07-23 15:26:43,433 com.scp.test.TestMain main - this is error
+[INFO] 2018-07-23 15:26:43,457 com.scp.test.TestMain main - this is info
